@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Château","order":7,"parentId":9,"scrollX":1263,"scrollY":1247},
+{"id":2,"expanded":false,"name":"Waterfall Forest","order":5,"parentId":6,"scrollX":1119,"scrollY":1247},
+{"id":3,"expanded":true,"name":"Sleepwood","order":2,"parentId":9,"scrollX":1455,"scrollY":1676},
+{"id":4,"expanded":false,"name":"Ciri's House","order":6,"parentId":6,"scrollX":801,"scrollY":756},
+{"id":5,"expanded":false,"name":"Forest","order":4,"parentId":6,"scrollX":801,"scrollY":996},
+{"id":6,"expanded":true,"name":"Lost Forest","order":3,"parentId":3,"scrollX":2063,"scrollY":2196},
+{"id":7,"expanded":false,"name":"Centre-ville","order":8,"parentId":1,"scrollX":1103,"scrollY":1239},
+{"id":8,"expanded":false,"name":"Briciel","order":9,"parentId":9,"scrollX":973,"scrollY":1111},
+{"id":9,"expanded":true,"name":"World 1","order":1,"parentId":0,"scrollX":2308,"scrollY":3298}
+]
